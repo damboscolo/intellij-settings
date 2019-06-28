@@ -25,6 +25,10 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt up" />
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
   <action id="EditorSplitLine" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FindNext">
@@ -83,7 +87,6 @@
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl g" />
     <keyboard-shortcut first-keystroke="meta d" />
-    <keyboard-shortcut first-keystroke="meta e" />
   </action>
   <action id="SendEOF" />
   <action id="ShowNavBar">
