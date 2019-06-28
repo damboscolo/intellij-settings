@@ -70,7 +70,6 @@
   </action>
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="shift meta e" />
-    <keyboard-shortcut first-keystroke="meta e" />
   </action>
   <action id="RecentLocations" />
   <action id="RunDashboard.CopyConfiguration" />
@@ -84,6 +83,7 @@
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl g" />
     <keyboard-shortcut first-keystroke="meta d" />
+    <keyboard-shortcut first-keystroke="meta e" />
   </action>
   <action id="SendEOF" />
   <action id="ShowNavBar">
