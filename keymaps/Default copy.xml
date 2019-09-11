@@ -22,9 +22,17 @@
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="page_up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="page_down" />
+  </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
+  <action id="EditorPageDown" />
+  <action id="EditorPageUp" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="meta e" />
@@ -78,12 +86,8 @@
   <action id="RecentLocations" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="RunDashboard.ShowConfigurations" />
-  <action id="SearchEverywhere.NavigateToNextGroup">
-    <keyboard-shortcut first-keystroke="page_down" />
-  </action>
-  <action id="SearchEverywhere.NavigateToPrevGroup">
-    <keyboard-shortcut first-keystroke="page_up" />
-  </action>
+  <action id="SearchEverywhere.NavigateToNextGroup" />
+  <action id="SearchEverywhere.NavigateToPrevGroup" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl g" />
     <keyboard-shortcut first-keystroke="meta d" />
@@ -99,6 +103,8 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl meta alt right" />
   </action>
+  <action id="Table-scrollUpChangeSelection" />
+  <action id="Tree-scrollUpChangeSelection" />
   <action id="Vcs.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
