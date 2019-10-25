@@ -13,7 +13,7 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.ex*</mask>
-    <mask>*.exs</mask>
     <mask>*.ex</mask>
+    <mask>*.exs</mask>
   </component>
 </application>
