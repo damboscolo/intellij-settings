@@ -20,7 +20,7 @@
     <mask>*test.exs</mask>
     <mask>*e2e.exs</mask>
     <mask>*.tsx</mask>
-    <mask>*.exs</mask>
     <mask>*.ex</mask>
+    <mask>*.exs</mask>
   </component>
 </application>
