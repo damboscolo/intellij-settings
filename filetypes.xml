@@ -3,8 +3,9 @@
     <extensionMap>
       <mapping pattern="campaign" type="Elixir file" />
       <mapping pattern="fetch_user_from_waitlist" type="PLAIN_TEXT" />
-      <mapping pattern="Orders" type="PLAIN_TEXT" />
       <mapping pattern=".env-prod" type="PLAIN_TEXT" />
+      <mapping pattern=".env-stag" type="PLAIN_TEXT" />
+      <mapping pattern="Orders" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
