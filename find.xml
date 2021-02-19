@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ex" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,7 +19,7 @@
     <mask>*test.exs</mask>
     <mask>*e2e.exs</mask>
     <mask>*.tsx</mask>
-    <mask>*.ex</mask>
     <mask>*.exs</mask>
+    <mask>*.ex</mask>
   </component>
 </application>
